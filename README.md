@@ -1,6 +1,5 @@
 ````markdown
-# OrganBridge – Organ Donation Management System
-
+# OrganBridge – Be the Bridge, Save Lives
 OrganBridge is a web-based platform designed to streamline the organ donation process by connecting donors, recipients, hospitals, and administrators through a centralized system.  
 The platform enables efficient donor registration, organ availability tracking, and request management to improve transparency and coordination in organ transplantation.
 
@@ -24,7 +23,6 @@ The platform enables efficient donor registration, organ availability tracking, 
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 
 **Backend**
 - PHP
